@@ -185,11 +185,11 @@ $(document).ready(function() {
             <table id='userTable'>
             <thead>
                 <tr>
-                    <th>E_Id</th>
-                    <th>Employee Name</th>
+                    <th>EmpId</th>
+                    <th> Name</th>
                     <th>Address</th>
                     <th>Qualification</th>
-                    <th>Passedout</th>
+                    <th>YearOfpassing</th>
 
                 </tr>
             </thead>
