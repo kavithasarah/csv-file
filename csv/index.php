@@ -72,7 +72,7 @@ body {
 }
 
 .outer-scontainer {
-    background: red;
+    background: MediumSeaGreen;
     border: #e0dfdf 1px solid;
     padding: 20px;
     border-radius: 2px;
@@ -84,7 +84,7 @@ body {
 }
 
 .btn-submit {
-    background: blue;
+    background: Blue;
     border: #1d1d1d 1px solid;
     color: #f0f0f0;
     font-size: 0.9em;
