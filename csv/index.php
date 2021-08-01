@@ -67,7 +67,7 @@ if (isset($_POST["import"])) {
 
 <style>
 body {
-    font-family: Arial;
+    font-family: Verdana;
     width: 550px;
 }
 
